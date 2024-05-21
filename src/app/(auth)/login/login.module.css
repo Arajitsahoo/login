@@ -1,0 +1,7 @@
+.loginbox{
+    height: 100px;
+    width: 100px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
